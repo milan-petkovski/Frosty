@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=f56363&center=true&vCenter=true&width=500&lines=Frosty+Website;Full+AI+Website;Modern+Ice+Cream+Design;Responsive+and+Inovative" alt="Typing SVG" />
+</p>
 
-## Project info
+<p align="center">
+  Frosty is a modern and eye-catching website created for an ice cream shop that values freshness, quality, and a visually appealing identity that brings joy. Designed to reflect a cheerful and refreshing atmosphere, the site combines bright colors, smooth navigation, and carefully curated content to engage visitors and turn them into loyal customers. Whether showcasing the ice cream menu, special offers, or the shop's location, every section of the site is crafted to build trust and appetite. Whether viewed on desktop or mobile, Frosty provides a seamless and delightful user experience. It's not just a website — it's the digital face of a brand that delivers refreshment.
+</p>
 
-**URL**: https://lovable.dev/projects/e9f55834-19f7-4d44-a843-8dd6bc782ebc
+<p align="center">
+  <a href="https://frosty.milanwebportal.com">
+    <img src="https://img.shields.io/badge/Visit-Website-f56363?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  </a>
+</p>
 
-## How can I edit this code?
+<hr>
 
-There are several ways of editing your application.
+## 📸 Screenshot
 
-**Use Lovable**
+![Frosty Screenshot](https://i.postimg.cc/505yBGHj/Frosty.png)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e9f55834-19f7-4d44-a843-8dd6bc782ebc) and start prompting.
+<hr>
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Technologies
 
-**Use your preferred IDE**
+- TypeScript  
+- TailwindCSS  
+- Vite  
+- JSON
+- Node.js
+- HTML5
+- CSS3
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+<hr>
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🎯 Features
 
-Follow these steps:
+- 🎨 Modern and intuitive design  
+- 📱 Fully responsive layout (mobile, tablet, desktop)  
+- 🍦 Menu with flavor descriptions  
+- 📍 Contact page with embedded map  
+- 📅 Inquiry or order form  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+<hr>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## ⚙️ Installation (Local)
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+git clone https://github.com/Milan-petkovski/Frosty.git
+cd Frosty
+open index.html
+````
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+<hr>
 
-**Edit a file directly in GitHub**
+## 📄 License
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**All files and design are the property of Milan Petkovski.**
+The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
 
-**Use GitHub Codespaces**
+<hr>
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## ✉️ Contact
 
-## What technologies are used for this project?
+For more information or collaboration:
+🌐 [milanwebportal.com](https://milanwebportal.com)
+📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com) <br><br>
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e9f55834-19f7-4d44-a843-8dd6bc782ebc) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+> Made with ❤️ by Milan Petkovski
