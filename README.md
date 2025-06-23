@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=f56363&center=true&vCenter=true&width=800&lines=Frosty+Website;AI-Powered+Ice+Cream+Design;Next-Gen+User+Interface;Crafted+for+Conversion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=f56363&center=true&vCenter=true&width=800&lines=Frosty+Website;AI-Powered+Ice+Cream+Design;Next-Gen+User+Interface;Crafted+for+Conversion" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -76,5 +76,5 @@ The code is open for viewing but not allowed to be downloaded, modified, or used
 Have a project in mind or want to work together?  
 🌐 [milanwebportal.com](https://milanwebportal.com)  
 📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
-
+<br/>
 <p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
