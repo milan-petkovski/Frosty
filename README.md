@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=f56363&center=true&vCenter=true&width=500&lines=Frosty+Website;Full+AI+Website;Modern+Ice+Cream+Design;Responsive+and+Inovative" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=f56363&center=true&vCenter=true&width=800&lines=Frosty+Website;AI-Powered+Ice+Cream+Design;Next-Gen+User+Interface;Crafted+for+Conversion" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://i.postimg.cc/505yBGHj/Frosty.png" width="500px" alt="Frosty Screenshot">
+</div>  <br>
+
 <p align="center">
-  Frosty is a modern and eye-catching website created for an ice cream shop that values freshness, quality, and a visually appealing identity that brings joy. Designed to reflect a cheerful and refreshing atmosphere, the site combines bright colors, smooth navigation, and carefully curated content to engage visitors and turn them into loyal customers. Whether showcasing the ice cream menu, special offers, or the shop's location, every section of the site is crafted to build trust and appetite. Whether viewed on desktop or mobile, Frosty provides a seamless and delightful user experience. It's not just a website — it's the digital face of a brand that delivers refreshment.
+  <strong>Frosty</strong> is not just a website — it's a futuristic digital experience crafted for modern ice cream brands that crave distinction.<br><br>
+  With a sleek, AI-driven interface and immersive design elements, Frosty merges visual storytelling with seamless interaction. From animated product showcases to a responsive layout that adapts to every device, every pixel is optimized to engage, delight, and convert.<br><br>
+  ⚡ Built for speed. Designed to refresh. Engineered to inspire trust and appetite.
 </p>
 
 <p align="center">
@@ -14,31 +20,37 @@
 
 <hr>
 
-## 📸 Screenshot
+## 🧊 Project Overview
 
-![Frosty Screenshot](https://i.postimg.cc/505yBGHj/Frosty.png)
+| Key Detail       | Info                                             |
+|------------------|--------------------------------------------------|
+| **Project Name** | Frosty                                           |
+| **Live URL**     | [frosty.milanwebportal.com](https://frosty.milanwebportal.com) |
+| **Type**         | AI-Powered                                       |
+| **Launch date**         | 20. June 2025.                                   |
+| **Author**       | [Milan Petkovski](https://milanwebportal.com)    |
 
 <hr>
 
 ## 🚀 Technologies
 
-- TypeScript  
-- TailwindCSS  
-- Vite  
-- JSON
-- Node.js
-- HTML5
-- CSS3
+- `⚙️` TypeScript  
+- `💨` TailwindCSS  
+- `⚡` Vite  
+- `🧱` HTML5 / CSS3  
+- `🌐` Node.js  
+- `🧾` JSON 
 
 <hr>
 
 ## 🎯 Features
 
-- 🎨 Modern and intuitive design  
-- 📱 Fully responsive layout (mobile, tablet, desktop)  
-- 🍦 Menu with flavor descriptions  
-- 📍 Contact page with embedded map  
-- 📅 Inquiry or order form  
+- `🧬` AI-powered design direction  
+- `🖼️` Fluid, immersive hero & product animations  
+- `📱` 100% mobile-first, responsive layout  
+- `🗺️` Integrated map & smart contact zone  
+- `🧾` Functional inquiry form with instant feedback  
+- `⚡` Ultra-optimized for performance & UX  
 
 <hr>
 
@@ -48,21 +60,21 @@
 git clone https://github.com/Milan-petkovski/Frosty.git
 cd Frosty
 open index.html
-````
+```
 
 <hr>
 
 ## 📄 License
 
-**All files and design are the property of Milan Petkovski.**
+**All files and design are the property of Milan Petkovski.**  
 The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
 
 <hr>
 
 ## ✉️ Contact
 
-For more information or collaboration:
-🌐 [milanwebportal.com](https://milanwebportal.com)
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com) <br><br>
+Have a project in mind or want to work together?  
+🌐 [milanwebportal.com](https://milanwebportal.com)  
+📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
 
-> Made with ❤️ by Milan Petkovski
+<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
